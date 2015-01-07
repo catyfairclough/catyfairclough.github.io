@@ -1,0 +1,109 @@
+h1{
+
+    font-family:"Grand Hotel", cursive;
+    font-size:40px;
+    margin-top:0px;
+    margin-bottom:0px;
+    color:#2d7b87;
+    text-align:center;
+}   
+
+h2 {
+
+    font-family: "Source Sans", sans-serif;
+    font-weight:500;
+    color:#363535;
+    text-align:center;
+    margin-bottom:5px;
+    margin-top:5px;
+}
+
+h3 {
+
+    font-family:"Source Sans", sans-serif;
+    font-weight:400;
+    font-size:18px;
+    color:#2d875c;
+    margin-top:10px;
+    margin-bottom:5px;
+}
+
+h4 {
+
+    font-family:"Source Sans", sans-serif;
+    font-weight:400;
+    font-size:20px;
+    color:#2d7b87;
+    margin-top:10px;
+    margin-bottom:10px;
+
+
+}
+
+p {
+    font-family: "Source Sans", sans-serif;
+    font-size:15px;
+    color:#363535;
+}
+
+p.date {
+
+    font-family: "Source Sans", sans-serif;
+    font-size:12px;
+    color:#363535;
+    margin-bottom:0px;
+    margin-top:0px;
+
+}
+
+a {
+
+    text-decoration:none;
+}
+
+h3:hover {
+
+    text-decoration:none;
+    color:#2d875c;
+    cursor:pointer;
+    margin-top:10px;
+    margin-bottom:5px;
+}
+
+#blogList {
+
+    margin-top:10px;
+
+}
+
+#magazine{
+    width: 800px;
+    height: 400px;
+}
+
+#magazine .turn-page{
+    background-color:#ccc;
+}
+
+
+.something img{
+
+    padding:5px;
+    margin:0 auto;
+}
+
+.poems {
+
+    font-family: "Open Sans", sans-serif; 
+    font-size:16px;
+    color:#363535;
+    line-height:150%;
+
+}
+
+
+.centerText {
+
+    text-align:center;
+}
+
